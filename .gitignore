@@ -1,2 +1,9 @@
 *
+!.gitignore
 !Recommendation2.0.ipynb
+!SQL_Highest_daily_viewTime_by_category.ipynb
+!SQL_Average_time_per_video_Ranked_by_Category.ipynb
+!SQL_Top_3_categories_viewtime.ipynb
+!Python_LeetCode_Top_K_Frequent_Elements.ipynb
+!Python_LeetCode Exercices - #49 - #56.ipynb
+!README.md
